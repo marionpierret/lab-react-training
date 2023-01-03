@@ -1,0 +1,16 @@
+img{
+   width: 50%;
+   border-radius: 50%
+
+}
+
+.allCard{
+    border-radius: 2%;
+    background-color: rgb(64, 72, 125) ;
+    margin: 20px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-gap: 1px;
+    text-align: left;
+}

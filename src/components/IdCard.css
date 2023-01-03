@@ -1,0 +1,15 @@
+.identity {
+    border : 1px solid black; 
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-gap: 1px;
+    padding: 5px;
+    margin-top:5px
+}
+
+.details {
+    line-height: 20%;
+    text-align:left;
+    padding: 5px;
+    
+}
